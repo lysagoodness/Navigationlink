@@ -1,0 +1,8 @@
+#para2{
+    color: yellow;
+}
+body{
+    background-image: url(mypics.jpg);
+    background-size: cover;
+    background-position: top;
+}
